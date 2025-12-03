@@ -1,0 +1,5 @@
+version: STSv1
+mode: none
+mx: glacier.mxrouting.net
+mx: glacier-relay.mxrouting.net
+max_age: 604800
